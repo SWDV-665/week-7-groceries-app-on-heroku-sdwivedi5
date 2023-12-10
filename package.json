@@ -2,6 +2,9 @@
   "name": "groceries",
   "version": "0.0.1",
   "author": "Ionic Framework",
+  "engines": {
+    "node": "20.x"
+  },
   "homepage": "https://ionicframework.com/",
   "scripts": {
     "ng": "ng",
